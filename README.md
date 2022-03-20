@@ -1,5 +1,9 @@
 # Google Research Football
 
+# Neue Zeilen einfügen
+Eine weitere Zeile
+Eine zweite Zeile
+
 This repository contains an RL environment based on open-source game Gameplay
 Football. <br> It was created by the Google Brain team for research purposes.
 
@@ -12,8 +16,8 @@ Useful links:
 * [GRF Kaggle competition](https://www.kaggle.com/c/google-football) - take part in the competition playing games against others, win prizes and become the GRF Champion!
 
 
-We'd like to thank Bastiaan Konings Schuiling, who authored and open-sourced the original version of this game.
-
+We'd like to thank Bastiaan Konings Schuiling, who authored and open-sourced theame.
+ original version of this g
 
 ## Quick Start
 
